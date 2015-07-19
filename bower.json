@@ -1,0 +1,14 @@
+{
+  "name": "games-ressources",
+  "version": "0.0.1",
+  "dependencies": {
+    "angular": "1.4.0-rc.2",
+    "angular-mocks": "~1.2",
+    "bootstrap": "~3.1",
+    "angular-bootstrap": "~0.10.0",
+    "angular-ui-router": "~0.2"
+  },
+  "resolutions": {
+    "angular": "1.4.0-rc.2"
+  }
+}
