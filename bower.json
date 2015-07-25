@@ -1,14 +1,17 @@
 {
-  "name": "games-ressources",
-  "version": "0.0.1",
+  "name": "mean",
   "dependencies": {
-    "angular": "1.4.0-rc.2",
-    "angular-mocks": "~1.2",
-    "bootstrap": "~3.1",
-    "angular-bootstrap": "~0.10.0",
-    "angular-ui-router": "~0.2"
-  },
-  "resolutions": {
-    "angular": "1.4.0-rc.2"
+    "jquery": "latest",
+    "angular": "latest",
+    "angular-resource": "latest",
+    "angular-cookies": "latest",
+    "angular-mocks": "latest",
+    "angular-route": "latest",
+    "bootstrap": "latest",
+    "angular-bootstrap": "latest",
+    "angular-ui-router": "#master",
+    "web-bootstrap": "./node_modules/meanio/resources/web-bootstrap.js",
+    "angular-ui-select": "latest",
+    "angular-sanitize": "latest"
   }
 }
